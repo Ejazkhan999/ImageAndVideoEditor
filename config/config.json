@@ -1,0 +1,27 @@
+{
+  "development": {
+    "username": "root",
+    "password": "",
+    "database": XYZ,
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "",
+    "database": "XYZ",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "XYZ",
+    "password": "",
+    "database": "videoEditor",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
+
+
+
+
